@@ -1,3 +1,5 @@
+This line fixes a typo in the README file edited add.
+
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
